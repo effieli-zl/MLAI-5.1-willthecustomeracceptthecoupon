@@ -2,7 +2,7 @@
 UC Berkeley MLAI | Required Assignment 5.1
 
 ## Jupyter Notebook
-[link]
+https://github.com/effieli-zl/MLAI-5.1-willthecustomeracceptthecoupon/blob/main/5.1_will_the_customer_accept_the_coupon.ipynb
 
 ## Key Findings
 
