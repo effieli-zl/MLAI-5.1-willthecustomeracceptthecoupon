@@ -30,3 +30,22 @@ https://github.com/effieli-zl/MLAI-5.1-willthecustomeracceptthecoupon/blob/main/
 - Gender alone does not significantly impact acceptance rates; however, notable gender differences emerge within certain occupations — Installation Maintenance & Repair (F: 100% vs. M: 49%) and Construction & Extraction (F: 85% vs. M: 33%), likely reflecting the physical demands of these roles.
 - Other lifestyle habits (bar visits, carry-away, cheaper restaurant visits) do not show a direct impact on coffee coupon acceptance; however, frequent visits to more expensive restaurants (Restaurant20To50) show a minor but consistent positive effect.
 - Regular coffee house visits are the strongest lifestyle predictor of coffee coupon acceptance — acceptance rates increase significantly with visit frequency, with a diminishing rate of increase peaking at 4–8 visits per month, then slightly declining beyond that.
+
+## Next Steps & Recommendations
+
+### Overall
+- Use destination context as a targeting signal — prioritize drivers with no urgent destination and avoid targeting drivers heading home if that data point is available, e.g. utilizing GPS data.
+- Replace 1-day expiration coupons over 2-hour ones to improve acceptance rates.
+- Avoid sending any coupon type when kid passengers are detected.
+
+### Bar Coupons
+- Target frequent bar-goers (more than once a month) over age 25 for highest ROI.
+- Exclude drivers with kid passengers from bar coupon campaigns.
+- De-prioritize low-income segments who frequently visit cheap restaurants — they show consistently lower interest.
+
+### Coffee House Coupons
+- Deploy coffee coupons primarily in the morning for peak acceptance.
+- For age-based targeting, focus on under-30 and 26–50 groups; de-prioritize 50+.
+- Prioritize Healthcare Practitioners, Building & Grounds, and Transportation workers by occupation.
+- Cross-reference with coffee loyalty program data if available — regular coffee house visitors are the strongest predictor of acceptance.
+- Gender alone is not a reliable targeting signal, but gender combined with occupation can surface high-value micro-segments.
