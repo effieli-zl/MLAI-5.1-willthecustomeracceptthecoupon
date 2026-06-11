@@ -25,6 +25,7 @@ https://github.com/effieli-zl/MLAI-5.1-willthecustomeracceptthecoupon/blob/main/
 - Drivers aged 50+ have overall lower acceptance rates for coffee coupons.
 - Younger age groups (below 21 to 30) show different patterns — acceptance rates don't drop significantly between 10AM and 2PM, and the 21–30 group even sees an increase.
 - The 46–50 age group is the most time-sensitive: acceptance spikes from ~33% at 7AM to ~78% at 10AM, drops to ~36% by 6PM, then recovers to ~65% at 10PM.
+- Time of day has a more consistent impact on coffee coupon acceptance for middle-aged groups (30–50) compared to younger and older groups.
 - Time of day significantly impacts coffee coupon acceptance, and this effect varies considerably by age group, reflecting different lifestyle patterns across generations.
 - By occupation, Healthcare Practitioners & Technical (76%) and Building & Grounds Cleaning & Maintenance (73%) show the highest acceptance rates, followed by Transportation & Material Moving, Healthcare Support, and Students (61–62%). Legal, Community & Social Services, and Sales & Related occupations show the lowest rates (<40%).
 - Gender alone does not significantly impact acceptance rates; however, notable gender differences emerge within certain occupations — Installation Maintenance & Repair (F: 100% vs. M: 49%) and Construction & Extraction (F: 85% vs. M: 33%), likely reflecting the physical demands of these roles.
